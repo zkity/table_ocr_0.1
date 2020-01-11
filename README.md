@@ -53,13 +53,14 @@ generate an excel file from a picture of a table
     }
     '''
 
-    其中bd中的信息是 [ 百度OCR](https://ai.baidu.com/forum/topic/show/867951) 的配置信息，请自己申请应用替换信息，免费。
+- 其中bd中的信息是
+[百度OCR](https://ai.baidu.com/forum/topic/show/867951)的配置信息，请自己申请应用替换信息，免费。
 
-    mode是识别的模式
+- mode是识别的模式
     
-        0-快速，精确度低，每天50000次免费使用，适用于图片的分辨率高
+    - 0-快速，精确度低，每天50000次免费使用，适用于图片的分辨率高
         
-        1-较慢，精确度高，每天500次免费使用，适用于图片的分辨率低
+    - 1-较慢，精确度高，每天500次免费使用，适用于图片的分辨率低
 
-    ora_path是识别图片的存放路径
-    excel_path是结果的存放路径
+- ora_path是识别图片的存放路径
+- excel_path是结果的存放路径
