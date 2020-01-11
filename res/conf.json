@@ -1,0 +1,12 @@
+{
+	"bd":{
+		"app_id": "18092142",
+		"api_key": "PAyXkzBalljk9GZhdVB0AW8T",
+		"secret_key": "dmlwQzHjkgxqBGvO4tWbQcMtqGyMk3L5"
+	},
+	"us":{
+		"mode": "0",
+		"ora_path": "../res/ora",
+		"excel_path": "../res/excel"
+	}
+}
