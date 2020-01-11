@@ -3,7 +3,7 @@ generate an excel file from a picture of a table
 
 ## 根据表格图像生成表格文件
     这一小段代码可以从一个简单的表格图片中生成表格文件，如下
-    ![](imgs/README/2020-01-11-13-05-22.png)
+![](imgs/README/2020-01-11-13-05-22.png)
 
     项目的起源是一个作业中只有一个表格的图片，需要手工把数据输入，这的确惹恼了一个计算机专业的学生 #_#
 
@@ -50,10 +50,10 @@ generate an excel file from a picture of a table
 		"ora_path": "../res/ora",
 		"excel_path": "../res/excel"
 	}
-}
+    }
     '''
 
-    其中bd中的信息是百度![OCR API](https://ai.baidu.com/forum/topic/show/867951)的配置信息，请自己申请应用替换信息，免费。
+    其中bd中的信息是百度[OCR API](https://ai.baidu.com/forum/topic/show/867951)的配置信息，请自己申请应用替换信息，免费。
 
     mode是识别的模式
     
