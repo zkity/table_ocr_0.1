@@ -53,7 +53,7 @@ generate an excel file from a picture of a table
     }
     '''
 
-    其中bd中的信息是 [百度OCR](https://ai.baidu.com/forum/topic/show/867951)的配置信息，请自己申请应用替换信息，免费。
+    其中bd中的信息是 [ 百度OCR](https://ai.baidu.com/forum/topic/show/867951) 的配置信息，请自己申请应用替换信息，免费。
 
     mode是识别的模式
     
